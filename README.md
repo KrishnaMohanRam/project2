@@ -1,5 +1,8 @@
 #Git tutorial
-
+Clonning a git repository
+```
+git clone
+```
 Adding a file in the git repository
 
 ```
